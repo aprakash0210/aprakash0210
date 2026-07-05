@@ -2,7 +2,7 @@
 
 CS @ NC State, building AI/ML systems that create tangible impact for real users — not AI for its own sake.
 
-📫 LinkedIn · Portfolio · Email <!-- swap these in -->
+📫 LinkedIn · Portfolio · Email 
 
 
 ##🚧 Currently building
@@ -34,8 +34,7 @@ Studying why real products succeed or fail — user behavior, design decisions, 
 
 
 
-<!-- Optional: tech stack badges
+ Optional: tech stack badges
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
--->
