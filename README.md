@@ -26,7 +26,7 @@ Designing and iterating on an agentic system that detects and predicts future da
 
 ---
 
-## 🧠 Currently having fun doing
+## 🧠 Currently having fun with
 
 - Strengthening ML fundamentals through probability, statistics, and hands-on implementation  
 - Analyzing why real-world products succeed or fail through user behavior, design decisions, and product-market fit  
