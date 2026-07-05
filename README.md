@@ -1,41 +1,41 @@
-## Hello!! I'm Ayush Prakash (he/him) 😺
+##Hey, I'm Ayush 😺
 
-CS @ NC State • AI/ML Builder • Future AI Product Leader & Developer  
+CS @ NC State, building AI/ML systems that create tangible impact for real users — not AI for its own sake.
 
-I’m interested in leading, architecting, and building user-centered AI/ML systems that create tangible, positive impact in people’s lives. This page is a snapshot of what I’m building, improving, and exploring.
+📫 LinkedIn · Portfolio · Email <!-- swap these in -->
 
----
 
-## What I care about
+##🚧 Currently building
 
-- Building products that reach real users and create tangible impact  
-- Designing human-centered systems rather than AI for its own sake  
-- Thinking at a systems level about how AI agents and ML models are architected to be both effective and practical within real-world constraints  
+AI Data Quality Prediction Agent — Lennar Internship
+Designing an agentic system that detects and predicts data quality issues using historical trends in enterprise datasets, so problems surface before they hit downstream users.
 
----
 
-## 🚧 Currently building
+Stack: Python (scikit-learn), SQL, AWS Bedrock, Ataccama
+Focus: agent architecture, predictive modeling, data quality intelligence, team process improvement
 
-### AI Data Quality Prediction Agent (Lennar Internship)
 
-Designing and iterating on an agentic system that detects and predicts future data quality issues using historical trends in enterprise datasets.
 
-- Working with: Python (scikit-learn), SQL, AWS Bedrock, Ataccama  
-- Focus: agent architecture, predictive modeling, data quality intelligence, team process improvement  
-- Goal: proactively surface data issues before they impact downstream users  
+##🧠 Exploring
 
----
 
-## 🧠 Currently having fun with
+Strengthening ML fundamentals — probability, statistics, hands-on implementation
+Tuning agentic AI architectures, prompts, and tool flows for reliability
+Studying why real products succeed or fail — user behavior, design decisions, product-market fit
 
-- Strengthening ML fundamentals through probability, statistics, and hands-on implementation  
-- Analyzing why real-world products succeed or fail through user behavior, design decisions, and product-market fit  
-- Experimenting with agentic AI systems—tuning architectures, prompts, and tool flows for reliability and real-world usefulness  
 
----
 
-## 🌱 In my free time
+##🌱 Outside of code
 
-- Reading literature (currently exploring Clarice Lispector)  
-- Playing video games (especially Overwatch + Souls games)  
-- Baking cookies and experimenting with desserts  
+
+📚 Reading — currently in a Clarice Lispector phase
+🎮 Overwatch + Souls games
+🍪 Baking cookies and experimenting with desserts
+
+
+
+<!-- Optional: tech stack badges
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+-->
