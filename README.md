@@ -2,17 +2,17 @@
 
 CS @ NC State, building AI/ML systems that create tangible impact for real users — not AI for its own sake.
 
-📫 [LinkedIn](https://www.linkedin.com/in/ayushprakash012/) · Portfolio · ayushprakash0102@gmail.com 
+📫 [LinkedIn](https://www.linkedin.com/in/ayushprakash012/) · ayushprakash0102@gmail.com 
 
 
 ## 🚧 Currently building
 
-AI Data Quality Prediction Agent — Lennar Internship
-Designing an agentic system that detects and predicts data quality issues using historical trends in enterprise datasets, so problems surface before they hit downstream users.
 
 
-Stack: Python (scikit-learn), SQL, AWS Bedrock, Ataccama
-Focus: agent architecture, predictive modeling, data quality intelligence, team process improvement
+AI Data Quality Prediction Agent 🤖 — Lennar Internship
+- Designing an agentic system that detects and predicts data quality issues using historical trends in enterprise datasets, so problems surface before they hit downstream users.
+- Stack: Python (scikit-learn), SQL, AWS Bedrock, Ataccama
+- Focus: agent architecture, predictive modeling, data quality intelligence, team process improvement
 
 
 
