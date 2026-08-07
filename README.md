@@ -1,6 +1,6 @@
 ## Hey, I'm Ayush 😺
 
-CS @ NC State, building AI/ML systems that create tangible impact for real users — not AI for its own sake.
+CS @ NC State, building AI/ML systems that create tangible impact for real users.
 
 📫 [LinkedIn](https://www.linkedin.com/in/ayushprakash012/) · ayushprakash0102@gmail.com 
 
