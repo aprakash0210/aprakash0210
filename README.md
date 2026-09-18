@@ -9,10 +9,11 @@ CS @ NC State, building AI/ML systems that create tangible impact for real users
 
 
 
-AI Data Quality Prediction Agent 🤖 — Lennar Internship
-- Designing an agentic system that detects and predicts data quality issues using historical trends in enterprise datasets, so problems surface before they hit downstream users.
-- Stack: Python (scikit-learn), SQL, AWS Bedrock, Ataccama
-- Focus: agent architecture, predictive modeling, data quality intelligence, team process improvement
+PC Monitoring and Recommendation Agent 🤖 
+- Designing an Agentic system that detects unoptomized PC performance during gaming and offers recommendations in game settings and hardware configuration
+- Building a socratic tutor agent for development to accelerate learning of new technical concepts. Trying to avoid just vibe-coding and practice human-in-the-loop best practices!
+- Stack: Python (scikit-learn), LangGraph, Claude Code.
+- Focus: agent architecture, machine learning methodologies, configuring Agentic AI workflows for self-learning.
 
 
 
@@ -21,7 +22,7 @@ AI Data Quality Prediction Agent 🤖 — Lennar Internship
 
 - Strengthening ML fundamentals — probability, statistics, hands-on implementation
 = Tuning agentic AI architectures, prompts, and tool flows for reliability
-- Studying why real products succeed or fail — user behavior, design decisions, product-market fit
+- Studying how to improve Agentic AI experience for users - how can develop ai responsibly and get people to trust it?
 
 
 
